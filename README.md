@@ -11,7 +11,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Nicholas+Leask">「 Google Me 」</a>
     <br>
-    Hi, I'm Nicholas Leask🙌, a Software Engineer and Web Developer. I love spending time with my pup🐶, friends family✌, learning new things🤓, board games 🏁, development⌨️, and soccer⚽.</samp>
+    Hi, I'm Nicholas Leask🙌, a Software Engineer and Web Developer. I love spending time with my pup🐶, friends and family✌, learning new things🤓, board games 🏁, development⌨️, and soccer⚽.</samp>
 
   - <samp>🔭 Currently a Software Engineer at Asurion, feel free to [connect on LinkedIn](https://linkedin.</samp>com/in/nicholas-leask).
   - <samp>🌱 Learning to navigate the [freelance market](https://www.fiverr.com/nicholasleask).</samp>
