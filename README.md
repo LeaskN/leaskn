@@ -2,9 +2,7 @@
 
 <br/>
 <p align="center">
-  <a href="https://github.com/leaskn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=leaskn&theme=radical&border=7F3FBF&background=0D1117" alt="Nicholas Leask's GitHub streak"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leaskn&theme=radical&border=7F3FBF&background=0D1117" alt="Nicholas Leask's GitHub streak"/>
 </p>
 
 <p align="center"> 
@@ -16,16 +14,14 @@
   - <samp>🔭 Currently a Software Engineer at Asurion, feel free to [connect on LinkedIn](https://linkedin.</samp>com/in/nicholas-leask).
   - <samp>🌱 Learning to navigate the [freelance market](https://www.fiverr.com/nicholasleask).</samp>
   - <samp>💻Updating my projects & portfolio. [Take a look](https://nicholasleask.com)!</samp>
-  - <samp>🥽 Having fun with programming problems, [algo repo](https://github.com/LeaskN/</samp>Algo_Practice_Solutions).
-  - <samp>💬 Ask me about anything, Would love chat, [shoot me a message](https://nicholasleask.com/contact)! 
+  - <samp>🥽 Having fun with programming problems, [algo repo](https://github.com/LeaskN/Algo_Practice_Solutions)</samp>.
+  - <samp>💬 Ask me about anything, Would love chat, [shoot me a message](https://nicholasleask.com/contact)</samp>! 
     <br>
     <br>
 </p>
 
 <p align="center">
-  <a href="https://github.com/leaskn">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leaskn&theme=radical" alt="Nicholas Leask's GitHub Contribution"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leaskn&theme=radical" alt="Nicholas Leask's GitHub Contribution"/>
 </p>
 
 
@@ -46,8 +42,8 @@
 
 # Nic's GitHub Stats: 
 <a> 
-  <a href="https://github.com/leaskn"><img alt="Nicholas Leask's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leaskn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="250px" width="49.5%"/></a>
-  <a href="https://github.com/leaskn"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leaskn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="250px" width="49.5%"/></a>
+  <img alt="Nicholas Leask's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leaskn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="250px" width="49.5%"/>
+  <img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leaskn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="250px" width="49.5%"/>
   <br/>
 </a>
 
