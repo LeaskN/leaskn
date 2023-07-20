@@ -29,7 +29,7 @@
 <br />
 
 # Top Repositories
-  [![The Fridge](https://github-readme-stats.vercel.app/api/pin/?username=leaskn&repo=thefridge&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeaskN/TheFridge)
+  [![The Fridge](https://github-readme-stats.vercel.app/api/pin/?username=leaskn&repo=not-the-netflix&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeaskN/notthenetflix)
   [![Distance Calculator](https://github-readme-stats.vercel.app/api/pin/?username=leaskn&repo=distance-calculator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeaskN/Distance-Calculator)
   [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=leaskn&repo=portfolio-2023&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeaskN/Portfolio-2023)
   [![Practice Algos](https://github-readme-stats.vercel.app/api/pin/?username=leaskn&repo=Algo_Practice_Solutions&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeaskN/Algo_Practice_Solutions)
