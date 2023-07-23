@@ -27,13 +27,15 @@
 
 
 <br />
+<h1>Top Repositories</h1>
+<div align="center">
 
-# Top Repositories
   [![The Fridge](https://github-readme-stats.vercel.app/api/pin/?username=leaskn&repo=not-the-netflix&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeaskN/not-the-netflix)
   [![Distance Calculator](https://github-readme-stats.vercel.app/api/pin/?username=leaskn&repo=distance-calculator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeaskN/Distance-Calculator)
   [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=leaskn&repo=portfolio-2023&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeaskN/Portfolio-2023)
   [![Practice Algos](https://github-readme-stats.vercel.app/api/pin/?username=leaskn&repo=Algo_Practice_Solutions&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/LeaskN/Algo_Practice_Solutions)
 
+</div>
 <p align="center">
   <a href="https://github.com/leaskn?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-7F3FBF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -41,11 +43,13 @@
 
 
 # Nic's GitHub Stats: 
-<a> 
-  <img alt="Nicholas Leask's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leaskn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="250px" width="49.5%"/>
-  <img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leaskn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="250px" width="49.5%"/>
-  <br/>
-</a>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; margin: auto;">
+  <a> 
+    <img alt="Nicholas Leask's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leaskn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="250px" width="49.5%"/>
+    <img alt="Nicholas Leask's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leaskn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="250px" width="49.5%"/>
+    <br/>
+  </a>
+</div>
 
 # Languages, Tech and Tools:
 
