@@ -2,7 +2,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leaskn&theme=radical&border=7F3FBF&background=0D1117" alt="Nicholas Leask's GitHub streak"/>
+  <img src="https://github-readme-streak-stats-lovat.vercel.app?user=leaskn&theme=tokyonight" alt="Nicholas Leask's GitHub streak"/>
 </p>
 
 <p align="center"> 
