@@ -30,12 +30,22 @@
 <h1>Top Repositories</h1>
 <div align="center">
 
-<p><a href="https://github.com/LeaskN/not-the-netflix"><img src="https://camo.githubusercontent.com/91d8cba93a5aec2c85fcf5aece8b134e0f84a3a3011bf53aeb7d4682795d82b7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6c6561736b6e267265706f3d6e6f742d7468652d6e6574666c697826626f726465725f636f6c6f723d3746334642462662675f636f6c6f723d304431313137267469746c655f636f6c6f723d43394431443926746578745f636f6c6f723d3842393439452669636f6e5f636f6c6f723d374633464246" alt="Not-Netflix" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=leaskn&amp;repo=not-the-netflix&amp;border_color=7F3FBF&amp;bg_color=0D1117&amp;title_color=C9D1D9&amp;text_color=8B949E&amp;icon_color=7F3FBF" style="max-width: 45%;"></a>
-<a href="https://github.com/LeaskN/Distance-Calculator"><img src="https://camo.githubusercontent.com/15f169c7be9d0ca3a8fd2d802edeeeff447808bfdcc1dc92cfd7143609e7451e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6c6561736b6e267265706f3d64697374616e63652d63616c63756c61746f7226626f726465725f636f6c6f723d3746334642462662675f636f6c6f723d304431313137267469746c655f636f6c6f723d43394431443926746578745f636f6c6f723d3842393439452669636f6e5f636f6c6f723d374633464246" alt="Distance Calculator" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=leaskn&amp;repo=distance-calculator&amp;border_color=7F3FBF&amp;bg_color=0D1117&amp;title_color=C9D1D9&amp;text_color=8B949E&amp;icon_color=7F3FBF" style="max-width: 45%;"></a>
-<a href="https://github.com/LeaskN/Portfolio-2023"><img src="https://camo.githubusercontent.com/b58a5c8d73128eb7ca14d1be9ede567cd91211db707bb7d96e1409f25ca8704e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6c6561736b6e267265706f3d706f7274666f6c696f2d3230323326626f726465725f636f6c6f723d3746334642462662675f636f6c6f723d304431313137267469746c655f636f6c6f723d43394431443926746578745f636f6c6f723d3842393439452669636f6e5f636f6c6f723d374633464246" alt="Portfolio" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=leaskn&amp;repo=portfolio-2023&amp;border_color=7F3FBF&amp;bg_color=0D1117&amp;title_color=C9D1D9&amp;text_color=8B949E&amp;icon_color=7F3FBF" style="max-width: 45%;"></a>
-<a href="https://github.com/LeaskN/Algo_Practice_Solutions"><img src="https://camo.githubusercontent.com/ad92d15174a20dc581eec3d1c73d5ad44b2de7661d6851557af31d743914a469/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6c6561736b6e267265706f3d416c676f5f50726163746963655f536f6c7574696f6e7326626f726465725f636f6c6f723d3746334642462662675f636f6c6f723d304431313137267469746c655f636f6c6f723d43394431443926746578745f636f6c6f723d3842393439452669636f6e5f636f6c6f723d374633464246" alt="Practice Algos" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=leaskn&amp;repo=Algo_Practice_Solutions&amp;border_color=7F3FBF&amp;bg_color=0D1117&amp;title_color=C9D1D9&amp;text_color=8B949E&amp;icon_color=7F3FBF" style="max-width: 45%;"></a></p>
 
-  </p>
+<div>
+  <a href="https://github.com/LeaskN/Algo_Practice_Solutions">Algo Practice Solutions</a>
+</div>
+<div>
+  <a href="https://github.com/LeaskN/Distance-Calculator">Distance Calculator</a>
+</div>
+<div>
+  <a href="https://github.com/LeaskN/Portfolio-2023">Porfolio</a>
+</div>
+<div>
+  <a href="https://github.com/LeaskN/not-the-netflix">notNetflix</a>
+</div>
+
+<br/>
+
 </div>
 <p align="center">
   <a href="https://github.com/leaskn?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-7F3FBF?style=for-the-badge&logo=koding&logoColor=white"/></a>
