@@ -25,42 +25,43 @@
 </p>
 
 
+<!---
 
-<br />
-<h1>Top Repositories</h1>
-<div align="center">
+  <br />
+  <h1>Top Repositories</h1>
+  <div align="center">
+  
+  <div>
+    <a href="https://github.com/LeaskN/Algo_Practice_Solutions">Algo Practice Solutions</a>
+  </div>
+  <div>
+    <a href="https://github.com/LeaskN/Distance-Calculator">Distance Calculator</a>
+  </div>
+  <div>
+    <a href="https://github.com/LeaskN/Portfolio-2023">Porfolio</a>
+  </div>
+  <div>
+    <a href="https://github.com/LeaskN/not-the-netflix">notNetflix</a>
+  </div>
+  
+  <br/>
+  
+  </div>
+  <p align="center">
+    <a href="https://github.com/leaskn?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-7F3FBF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  </p>
 
-
-<div>
-  <a href="https://github.com/LeaskN/Algo_Practice_Solutions">Algo Practice Solutions</a>
-</div>
-<div>
-  <a href="https://github.com/LeaskN/Distance-Calculator">Distance Calculator</a>
-</div>
-<div>
-  <a href="https://github.com/LeaskN/Portfolio-2023">Porfolio</a>
-</div>
-<div>
-  <a href="https://github.com/LeaskN/not-the-netflix">notNetflix</a>
-</div>
-
-<br/>
-
-</div>
-<p align="center">
-  <a href="https://github.com/leaskn?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-7F3FBF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
+-->
 
 <!---
-# Nic's GitHub Stats: 
-<div align="center">
-  <a> 
-    <img alt="Nicholas Leask's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leaskn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-    <img alt="Nicholas Leask's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leaskn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-    <br/>
-  </a>
-</div>
+  # Nic's GitHub Stats: 
+  <div align="center">
+    <a> 
+      <img alt="Nicholas Leask's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=leaskn&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+      <img alt="Nicholas Leask's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=leaskn&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+      <br/>
+    </a>
+  </div>
 -->
 # Languages, Tech and Tools:
 
