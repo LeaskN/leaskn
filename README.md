@@ -11,8 +11,8 @@
     <br>
     Hi, I'm Nicholas Leask🙌, a Software Engineer and Web Developer. I love spending time with my pup🐶, friends and family✌, learning new things🤓, board games 🏁, development⌨️, and soccer⚽.</samp>
 
-  - <samp>🔭 Currently a Software Engineer at Charity Navigator, feel free to [connect on LinkedIn](https://linkedin.</samp>com/in/nicholas-leask).
-  - <samp>🌱 Learning to navigate the [freelance market](https://www.fiverr.com/nicholasleask).</samp>
+  <!-- - <samp>🌱 Learning to navigate the [freelance market](https://www.fiverr.com/nicholasleask).</samp> -->
+  - <samp>🔭 Currently a Software Engineer at Charity Navigator, feel free to [connect on LinkedIn](https://linkedin.com/in/nicholas-leask).
   - <samp>💻Updating my projects & portfolio. [Take a look](https://nicholasleask.com)!</samp>
   - <samp>🥽 Having fun with programming problems, [algo repo](https://github.com/LeaskN/Algo_Practice_Solutions)</samp>.
   - <samp>💬 Ask me about anything, Would love chat, [shoot me a message](https://nicholasleask.com/contact)</samp>! 
